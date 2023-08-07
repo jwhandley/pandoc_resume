@@ -1,100 +1,86 @@
-Johnny Coder
+John Handley
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Economist specialising in data analysis and econometrics
+>  with an academic background in political science
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2021-222
+:   **MSc, Politics Research**; University of Oxford
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    * Classification: **Merit**
+    * Core Course: European Politics and Government
+    * Thesis: Examined the effects of trade shocks on political realignment in the UK using the BHPS/Understanding Society
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2018-2021
+:   **BA, Philosophy, Politics, and Economics**; University of Oxford
 
-    *Minor: Awesomeology*
+    * Classification: **First class**
+    * *Fowler Award* for best second year performance in economics
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Graduate Economist, Ofcom**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+First rotation (September 2022 - September 2023): Media Plurality
 
-* First item
+- Conducted comprehensive literature review on the impact of online intermediaries on political polarisation
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+- Pioneered original research into the relationship between online intermediaries and the diversity of news consumption
+  * Used topic modelling to identify clusters of similar articles in a large web-tracking dataset
+  
+  * Showed that the diversity (entropy) of topics is lower for individuals with a higher proportion of social media in their news diets
 
-**That Other Job You Had**
 
-Also with a short description.
+**Research Assistant for the WEALTHPOL project, University of Oxford**
+
+* Searched through Japanese national archives to uncover inheritance tax schedules from 1945 to 2020
+  * Involved parsing contemporary Japanese, which was often considerably different from modern Japanaese in the earlier year
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **R:** I have experience using R to analyse social surveys like the British Election Study and
+    microdata from large-scale offical surveys like the Current Population survey. One example
+    is a recent project implementing Multilevel Regression and Post-stratification for England
+    and Wales using the BES and the 2021 Census available [here][ref1]. I have also recently 
+    used the ONS subnational indicators dataset to run a simple cluster analysis for Local Authorities
+    in Great Britain [here][ref2].
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Python:** Most of my Python work is closed source at Ofcom, but I have a few simple
+    projects such as [this][ref3] that fits a Doc2Vec model to speeches made in the
+    House of Commons from 1979 to 2021 to find words and phrases most associated with
+    each party in each parliament.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Stan:** I have used Stan to fit state space models of [political opinion polls](https://johnhandley.substack.com/p/building-a-bayesian-poll-of-polls)
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of **Rust**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+[ref1]: https://github.com/jwhandley/England-Wales-MRP
+[ref2]: https://github.com/jwhandley/gb-lad-cluster-analysis
+[ref3]: https://github.com/jwhandley/UK-HoC-Speech-Scaling
 
-Extra Section, Call it Whatever You Want
+Other skills and experience
 ----------------------------------------
 
-* Human Languages:
+* Languages:
 
      * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Japanese
 
-* Random tidbit
+* I have written a report for the Social Market Foundation using data from 2017 Purchasing Power Parity benchmark to decompose the gap in living standards between the US and the UK
 
-* Other sort of impressive-sounding thing you did
+* I frequently post data analysis and economic commentary on [Twitter](https://www.twitter.com/jwhandley17) and [Substack](https://johnhandley.substack.com/)
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <jwhandley17@gmail.com> • +44 (0)737 555 9143\
+> London, UK
