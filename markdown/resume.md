@@ -11,17 +11,17 @@ John Handley
 Education
 ---------
 
-2021-222
+2021-2022
 :   **MSc, Politics Research**; University of Oxford
 
-    * Classification: **Merit**
+    * Classification: Merit
     * Core Course: European Politics and Government
     * Thesis: Examined the effects of trade shocks on political realignment in the UK using the BHPS/Understanding Society
 
 2018-2021
 :   **BA, Philosophy, Politics, and Economics**; University of Oxford
 
-    * Classification: **First class**
+    * Classification: First class
     * *Fowler Award* for best second year performance in economics
 
 Experience
@@ -42,17 +42,17 @@ First rotation (September 2022 - September 2023): Media Plurality
 **Research Assistant for the WEALTHPOL project, University of Oxford**
 
 * Searched through Japanese national archives to uncover inheritance tax schedules from 1945 to 2020
-  * Involved parsing contemporary Japanese, which was often considerably different from modern Japanaese in the earlier year
+  * Involved parsing contemporary Japanese, which was often considerably different from modern Japanese
 
 Technical Experience
 --------------------
 
 Programming Languages
 :   **R:** I have experience using R to analyse social surveys like the British Election Study and
-    microdata from large-scale offical surveys like the Current Population survey. One example
+    microdata from large-scale official surveys like the Current Population survey. One example
     is a recent project implementing Multilevel Regression and Post-stratification for England
     and Wales using the BES and the 2021 Census available [here][ref1]. I have also recently 
-    used the ONS subnational indicators dataset to run a simple cluster analysis for Local Authorities
+    used the ONS sub-national indicators dataset to run a simple cluster analysis for Local Authorities
     in Great Britain [here][ref2].
 
 :   **Python:** Most of my Python work is closed source at Ofcom, but I have a few simple
@@ -76,7 +76,7 @@ Other skills and experience
      * English (native speaker)
      * Japanese
 
-* I have written a report for the Social Market Foundation using data from 2017 Purchasing Power Parity benchmark to decompose the gap in living standards between the US and the UK
+* I have written a [report](https://www.smf.co.uk/publications/uk-vs-us-living-standards/) for the Social Market Foundation using data from 2017 Purchasing Power Parity benchmark to decompose the gap in living standards between the US and the UK
 
 * I frequently post data analysis and economic commentary on [Twitter](https://www.twitter.com/jwhandley17) and [Substack](https://johnhandley.substack.com/)
 
