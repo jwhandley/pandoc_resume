@@ -14,22 +14,22 @@ Education
 2021-2022
 :   **MSc, Politics Research**; University of Oxford
 
-    * Classification: Merit
-    * Core Course: European Politics and Government
-    * Thesis: Examined the effects of trade shocks on political realignment in the UK using the BHPS/Understanding Society
+  - Classification: Merit
+  - Core Course: European Politics and Government
+  - Thesis: The effect of trade shocks on political realignment in the UK using long-run panel data
 
 2018-2021
 :   **BA, Philosophy, Politics, and Economics**; University of Oxford
 
-    * Classification: First class
-    * *Fowler Award* for best second year performance in economics
+  - Classification: First class
+  - *Fowler Award* for best second year performance in economics
 
 Experience
 ----------
 
-**Graduate Economist, Ofcom**
+**Data Analytics Economist, Ofcom**
 
-First rotation (September 2022 - September 2023): Media Plurality
+September 2022 - present
 
 - Conducted comprehensive literature review on the impact of online intermediaries on political polarisation
 
@@ -38,11 +38,15 @@ First rotation (September 2022 - September 2023): Media Plurality
   
   * Showed that the diversity (entropy) of topics is lower for individuals with a higher proportion of social media in their news diets
 
+- Given Impact Award for these research contributions
+
 
 **Research Assistant for the WEALTHPOL project, University of Oxford**
 
-* Searched through Japanese national archives to uncover inheritance tax schedules from 1945 to 2020
-  * Involved parsing contemporary Japanese, which was often considerably different from modern Japanese
+- Searched through Japanese national archives to uncover inheritance tax schedules from 1945 to 2020
+  * This involved reading the original Japanese which is often quite different to contemporary Japanese
+  
+  * Because of this I was able to identify a flaw in the original dataset, improving our understanding of the development of inheritance taxation in post-war Japan
 
 Technical Experience
 --------------------
@@ -62,11 +66,12 @@ Programming Languages
 
 :   **Stan:** I have used Stan to fit state space models of [political opinion polls](https://johnhandley.substack.com/p/building-a-bayesian-poll-of-polls)
 
-:   Basic knowledge of **Rust**
+:   **Rust:** I have basic knowledge of Rust and have written some [basic command line utilities](ref4).
 
 [ref1]: https://github.com/jwhandley/England-Wales-MRP
 [ref2]: https://github.com/jwhandley/gb-lad-cluster-analysis
 [ref3]: https://github.com/jwhandley/UK-HoC-Speech-Scaling
+[ref4]: https://github.com/jwhandley/semantic-search-cli
 
 Other skills and experience
 ----------------------------------------
@@ -76,9 +81,7 @@ Other skills and experience
      * English (native speaker)
      * Japanese
 
-* I have written a [report](https://www.smf.co.uk/publications/uk-vs-us-living-standards/) for the Social Market Foundation using data from 2017 Purchasing Power Parity benchmark to decompose the gap in living standards between the US and the UK
-
-* I frequently post data analysis and economic commentary on [Twitter](https://www.twitter.com/jwhandley17) and [Substack](https://johnhandley.substack.com/)
+* I have written a [report](https://www.smf.co.uk/publications/uk-vs-us-living-standards/) for the Social Market Foundation using data from the 2017 Purchasing Power Parity benchmark to decompose the gap in living standards between the US and the UK
 
 ----
 
